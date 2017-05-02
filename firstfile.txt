@@ -1,7 +1,7 @@
 This is the first file in Git.
 
-secoond linloijewojewope rigwht hejfieowowre.
+Second line. 
 
-A third line. eowpwoweoofee
+Third line.
 
-Add the foueoth line again.
+Fourth line.
