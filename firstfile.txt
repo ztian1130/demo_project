@@ -1,6 +1,6 @@
 This is the first file in Git.
 
-A second line is here.
+Add a second line right here.
 
 A third line.
 
