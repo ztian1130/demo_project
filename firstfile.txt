@@ -1,3 +1,5 @@
 This is the first file in Git.
 
 A second line is here.
+
+A third line. 
